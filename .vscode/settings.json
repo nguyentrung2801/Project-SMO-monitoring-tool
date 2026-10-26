@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:USERPROFILE}\\.platformio\\penv\\Scripts;${env:PATH}",
+        "PYTHONIOENCODING": "utf-8",
+        "PLATFORMIO_SETTING_ENABLE_TELEMETRY": "No"
+    },
+    "files.encoding": "utf8",
+    "platformio-ide.useBuiltinPIOCore": true
+}
